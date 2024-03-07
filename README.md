@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Lokesh Kumar 🚀</h1>
 <h3 align="center">A passionate frontend developer from India, currently exploring the MERN Stack 💻 | DSA Solutions Creator (300+ Questions) ♨️ | Student at Chitkara University 📚</h3>
 <div align="center">
-  <img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 100px;">
+  <img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-right: 200px;">
 </div>
 
 
