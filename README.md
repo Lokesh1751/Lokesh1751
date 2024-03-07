@@ -1,18 +1,21 @@
 <h1 align="center">Hi there! 👋 I'm Lokesh Kumar 🚀</h1>
 <h3 align="center">A passionate frontend developer from India, currently exploring the MERN Stack 💻 | DSA Solutions Creator (300+ Questions) ♨️ | Student at Chitkara University 📚</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh1751&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh1751" /> </p>
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh1751" alt="lokesh1751" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh1751" alt="lokesh1751" /></a> </p>
-
-- 🌱 Currently diving into the MERN Stack.
-
-- 👨‍💻 Check out my portfolio at [lokesh1751.github.io/My-Portfolio](https://lokesh1751.github.io/My-Portfolio/)
-
-- 💬 Ask me about anything related to React JS.
-
-- 📫 How to reach me: [lokeshangi@gmail.com](mailto:lokeshangi@gmail.com)
+        <ul>
+            <li>🌱 Currently diving into the MERN Stack.</li>
+            <li>👨‍💻 Check out my portfolio at <a href="https://lokesh1751.github.io/My-Portfolio/">lokesh1751.github.io/My-Portfolio</a></li>
+            <li>💬 Ask me about anything related to React JS.</li>
+            <li>📫 How to reach me: <a href="mailto:lokeshangi@gmail.com">lokeshangi@gmail.com</a></li>
+        </ul>
+    </div>
+    <div style="flex: 1;">
+        <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
