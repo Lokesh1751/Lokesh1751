@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://lokesh1751.github.io/My-Portfolio/)
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **React JS & Next JS**
 - 📫 How to reach me: **lokeshangi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
