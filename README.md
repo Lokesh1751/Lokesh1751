@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumar 🚀</h1>
 <h3 align="center">
-  A passionate frontend developer from India 💻 | Software Engineer-I at GeekyAnts 💼 | DSA Solutions Creator (300+ Questions) ♨️ | Student at Chitkara University 📒
+  A passionate developer from India 💻 | Software Engineer-I at GeekyAnts 💼 | DSA Solutions Creator (300+ Questions) ♨️ | Student at Chitkara University 📒
 </h3>
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=lokesh1751&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh1751" />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **REACT NATIVE**
 - 💬 Ask me about **React JS & Next JS**
 - 📫 How to reach me: **lokeshangi@gmail.com**
 
