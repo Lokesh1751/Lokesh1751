@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/lokesh-kumar-5b0a52221/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh kumar" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sujalangi13" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujalangi13" height="30" width="40" />
-  </a>
   <a href="https://www.leetcode.com/lokeshkumar13" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokeshkumar13" height="30" width="40" />
   </a>
